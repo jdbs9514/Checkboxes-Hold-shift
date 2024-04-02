@@ -31,5 +31,5 @@ A boolean value, where true indicates that the key is pressed, and false indicat
 - LinkedIn: [Josué](https://linkedin.com/in/macoin)
 
 ### Play:
-[Live Demo](https://foo.com)
+[Live Demo](https://gorgeous-cranachan-fe718e.netlify.app/)
 
